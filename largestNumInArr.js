@@ -17,7 +17,7 @@ function largestOfFive(arr){
         }
         result[i] = largestNum;
     }
-    return result;
+    return result
 }
 
 
