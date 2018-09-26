@@ -1,9 +1,9 @@
 function reverseString(str){
-str = str.split('');
+str = str.split(''); // split string to array
 //console.log(str);
-str = str.reverse('');
+str = str.reverse('');// reverse the array
 //console.log(str);
-str = str.join('');
+str = str.join(''); // connected all elements in array into one string
 //console.log(str);
 
 return str;
